@@ -20,3 +20,5 @@
 **Reference**
 - [Kaggle]()
 - 파이썬 라이브러리를 활용한 데이터 분석
+- [Darts](https://unit8co.github.io/darts/)
+- [TensorFlow 시계열 예측 튜토리얼](https://www.tensorflow.org/tutorials/structured_data/time_series?hl=ko)
