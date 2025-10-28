@@ -8,7 +8,7 @@ def init_plt():
     simplefilter("ignore")
 
     # Set Matplotlib defaults
-    plt.style.use("seaborn-whitegrid")
+    plt.style.use("seaborn-v0_8-whitegrid")
     plt.rc("figure", autolayout=True, figsize=(11, 5))
     plt.rc(
         "axes",
